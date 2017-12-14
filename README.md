@@ -1,7 +1,7 @@
 # DBox
 Drawing box tool for creating bounding boxes for detection. It also supports YOLO formatting by setting the flag fmt to 1  
 
-![Alt text](img.jpg?raw=true "Title")
+![Alt text](img1.jpg?raw=true "Title")
 ## Requirments 
 * python 3.5 
 * Opencv 
