@@ -18,6 +18,6 @@ Use yolo format for detection
 
 ## Shortcuts
 * [ENTER] save the bounding box to the directory 
-* [=>] move to next image 
-* [<=] move to previous image 
+* [m] move to next image 
+* [n] move to previous image 
 * [ESC] exit the drawing tool 
